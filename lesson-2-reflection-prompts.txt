@@ -7,6 +7,7 @@ Staging area is like a pre-stage before we finally decide to make changes. It is
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+We can use it to check we only have those necessary files added that we need to make commit. We can also use it to differentiate with past commits or working directory
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
