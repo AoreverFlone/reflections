@@ -3,6 +3,7 @@ A .git file is created when we do so and we need to do so in order for git to se
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+Staging area is like a pre-stage before we finally decide to make changes. It is different from a working directory, a working directory may have many files which we may or may not want in our repository. Thus it helps.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
