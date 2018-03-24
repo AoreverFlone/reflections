@@ -14,9 +14,12 @@ organized? How would branches help?
 Branches helps to make easier tracking, then we would have otherwise. We could switch back and forward, but switching branches is much more efficent and easier.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams help us show the flow more easily and ofcourse visualization helps better than just reading stuff.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging help us bring together two changes. Its like two rivers finally intertwining and diagram helps us to notice their status.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Git automatic merging helps us save time a lot, its not always possible to manually merge everything in big scale projects. Thus one need a combination of both manual and automatic merging.
