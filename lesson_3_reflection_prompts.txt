@@ -12,3 +12,6 @@ The local copy of the last known state helps us to know the status and differenc
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 The only we way we could collaborate without Github is if we knew the someone personally, because we'd be have to be in constant contact with them over what changes to make or not. So that will be hard. Don't think anything will be easier without Git and Github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Master branch is the main branch and we would like to keep it seperate from all broken buggy adventures we might go on. We don't want to break our master branch until we have something working properly and thus for it we need seperate branches.
